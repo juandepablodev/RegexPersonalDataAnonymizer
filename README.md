@@ -1,6 +1,6 @@
 # Regex Anonymizer & Chat Cleaner (100% Local & Private)
 
-A professional-grade tool, built to **detect and redact personally identifiable information (PII)** from text files and chat logs.
+A personal and academic tool built to **detect and redact personally identifiable information (PII)** from text files and chat logs.
 
 Perfect for preparing chat conversations, reports, or debugging logs before sharing them, ensuring the **complete privacy** of your information.
 
